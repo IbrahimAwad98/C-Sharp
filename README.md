@@ -40,6 +40,3 @@ Visuellt systemdiagram som illustrerar:
   - Visual Studio eller Visual Studio Code
   - .NET Framework/.NET Core/.NET 5+
 - **Dokumentation:** Microsoft Word
----
-
-*Skapad med 💻 och 🎯 som en del av min C#-programmeringsinlärning*
