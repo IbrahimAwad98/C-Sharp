@@ -1,42 +1,15 @@
-## Om detta repository
+# C#
 
-Detta repository innehåller ett C#-programmeringsprojekt med tillhörande dokumentation och systemdiagram. Projektet demonstrerar objektorienterad programmering och mjukvaruutveckling med C#.
+A C# project with documentation and a system diagram. It shows object-oriented programming in C#.
 
-## Projektstruktur
+## Files
 
-### Program.cs
-Huvudprogramfilen som innehåller C#-källkoden för projektet. Denna fil implementerar:
-- Objektorienterad programmering (OOP)
-- Klasser och metoder
-- Datastrukturer
-- Programlogik och funktionalitet
+- `Program.cs` - the source code. Classes, methods, data structures, and program logic.
+- `Dokumentation.docx` - technical documentation: overview, architecture, code notes, and how to use the program.
+- `Bloggen.docx` - a project blog with the process, lessons learned, and problems solved.
+- `Diagram.png` - class diagram and data flow.
 
-### Dokumentation.docx
-Omfattande teknisk dokumentation som täcker:
-- Projektöversikt och syfte
-- Systemarkitektur
-- Kod-dokumentation
-- Användningsinstruktioner
-- Tekniska specifikationer
+## Technology
 
-### Bloggen.docx
-Projektblogg eller reflektion som innehåller:
-- Utvecklingsprocess
-- Lärdomar och insikter
-- Utmaningar och lösningar
-- Projektets utveckling över tid
-
-### Diagram.png
-Visuellt systemdiagram som illustrerar:
-- Systemarkitektur
-- Klassdiagram
-- Dataflöde
-- Komponentrelationer
-
-## Teknologi
-
-- **Programmeringsspråk:** C# (6,276 bytes kod)
-- **Utvecklingsverktyg:** 
-  - Visual Studio eller Visual Studio Code
-  - .NET Framework/.NET Core/.NET 5+
-- **Dokumentation:** Microsoft Word
+- Language: C#
+- Tools: Visual Studio or Visual Studio Code, .NET
